@@ -1,1 +1,1 @@
-# web-blaise-diseñador
+# blaise-diseñador-grafico
